@@ -37,7 +37,7 @@ def minus(a, b):
     # pass
     # ===Modify codes below=============
 
-    result = None
+    result = a-b
 
     # ==================================
 
@@ -60,7 +60,7 @@ def multiplication(a, b):
     # pass
     # ===Modify codes below=============
 
-    result = None
+    result = a*b
 
     # ==================================
 
@@ -83,7 +83,7 @@ def division(a, b):
     # pass
     # ===Modify codes below=============
 
-    result = None
+    result = a/b
 
     # ==================================
 
